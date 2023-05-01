@@ -48,3 +48,8 @@
   justify-content: space-around;
   
 }
+
+.filter-btn{
+  margin: 10px;
+  cursor: pointer;
+}
